@@ -1,0 +1,102 @@
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/assets/custom-styles/general-custom-styles.php qode_startit_design_styles function */
+.qodef-preload-background { background-image: url(http://dmac-tech.com/wp-content/themes/startit/assets/img/preload_pattern.png) !important;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/assets/custom-styles/general-custom-styles.php qode_startit_design_styles function */
+.qodef-boxed .qodef-wrapper { background-attachment: fixed;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/footer/custom-styles/footer.php startit_qode_footer_top_columns_alignment_style function */
+footer .qodef-footer-top .qodef-column-inner { text-align: inherit;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/fullscreenmenu/custom-styles/fullscreen-menu.php startit_qode_fullscreen_menu_general_styles function */
+nav.qodef-fullscreen-menu ul li, .qodef-fullscreen-above-menu-widget-holder, .qodef-fullscreen-below-menu-widget-holder { text-align: center;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/fullscreenmenu/custom-styles/fullscreen-menu.php startit_qode_fullscreen_menu_first_level_style function */
+nav.qodef-fullscreen-menu > ul > li > a, nav.qodef-fullscreen-menu > ul > li > h6 { font-size: 46px;line-height: 67px;font-weight: 700;letter-spacing: 0px;text-transform: none;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/fullscreenmenu/custom-styles/fullscreen-menu.php startit_qode_fullscreen_menu_icon_styles function */
+.qodef-fullscreen-menu-opener .qodef-line { background-color: #4c4b4b;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/header/custom-styles/header.php startit_qode_header_top_bar_styles function */
+.qodef-top-bar { background-color: rgba(54, 54, 54, 1);}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/header/custom-styles/header.php startit_qode_vertical_menu_styles function */
+.qodef-header-vertical .qodef-vertical-area-background { background-color: #fafafa;}
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+                
+        
+
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                
+        
+                
+        /* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/header/custom-styles/header.php startit_qode_vertical_main_menu_styles function */
+.qodef-header-vertical .qodef-vertical-dropdown-float .menu-item .second, .qodef-header-vertical .qodef-vertical-dropdown-float .menu-item.narrow .second .inner ul, .qodef-header-vertical .qodef-vertical-dropdown-float .second .inner ul ul { background-color: #ffffff;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/header/custom-styles/header.php startit_qode_vertical_main_menu_styles function */
+.qodef-header-vertical .qodef-vertical-dropdown-float .menu-item.narrow .second .inner ul, .qodef-header-vertical .qodef-vertical-dropdown-float .second .inner ul ul, .qodef-header-vertical .qodef-vertical-dropdown-float .second .inner ul { padding-top: 20px;padding-bottom: 20px;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/header/custom-styles/header.php startit_qode_vertical_main_menu_styles function */
+.qodef-header-vertical .qodef-vertical-menu ul > li.menu-item-has-children a .plus { display: none;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/header/custom-styles/header.php startit_qode_vertical_main_menu_styles function */
+.qodef-header-vertical .qodef-vertical-menu > ul > li > a { color: #727272;font-family: Raleway;font-size: 16px;line-height: 27px;text-transform: capitalize;font-style: normal;font-weight: 700;letter-spacing: 0px;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/header/custom-styles/header.php startit_qode_vertical_main_menu_styles function */
+.qodef-header-vertical .qodef-vertical-menu > ul > li > a:hover, .qodef-header-vertical .qodef-vertical-menu > ul > li > a.qodef-active-item { color: #b2dd4c;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/header/custom-styles/header.php startit_qode_vertical_main_menu_styles function */
+.qodef-header-vertical .qodef-vertical-menu .second .inner > ul > li > a { color: #969696;font-family: Raleway;font-size: 13px;line-height: 13px;text-transform: capitalize;font-style: normal;font-weight: 400;letter-spacing: 0px;padding-top: 13px;padding-bottom: 13px;padding-left: 40px;padding-right: 40px;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/header/custom-styles/header.php startit_qode_vertical_main_menu_styles function */
+.qodef-header-vertical .qodef-vertical-menu .second .inner > ul > li > a:hover, .qodef-header-vertical .qodef-vertical-menu .second .inner > ul > li > a.qodef-active-item { color: #b2dd4c;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/header/custom-styles/header.php startit_qode_vertical_main_menu_styles function */
+.qodef-header-vertical .qodef-vertical-menu .second .inner ul li ul li a { color: #969696;font-size: 13px;line-height: 13px;font-style: normal;font-weight: 400;letter-spacing: 0px;padding-top: 13px;padding-bottom: 13px;padding-left: 25px;padding-right: 25px;}
+
+/* generated in /home/dmac-tech/public_html/wp-content/themes/startit/framework/modules/header/custom-styles/header.php startit_qode_vertical_main_menu_styles function */
+.qodef-header-vertical .qodef-vertical-menu .second .inner ul li ul li a:hover, .qodef-header-vertical .qodef-vertical-menu .second .inner ul li ul li a.qodef-active-item { color: #b2dd4c;}
+
